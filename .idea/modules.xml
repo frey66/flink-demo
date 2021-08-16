@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flink-application/flink-application.iml" filepath="$PROJECT_DIR$/flink-application/flink-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-be-god.iml" filepath="$PROJECT_DIR$/flink-be-god.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-beginning/flink-beginning.iml" filepath="$PROJECT_DIR$/flink-beginning/flink-beginning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-connector/flink-connector.iml" filepath="$PROJECT_DIR$/flink-connector/flink-connector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-connector/flink-connector-prometheus/flink-connector-prometheus.iml" filepath="$PROJECT_DIR$/flink-connector/flink-connector-prometheus/flink-connector-prometheus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-connector/flink-connector-redis/flink-connector-redis.iml" filepath="$PROJECT_DIR$/flink-connector/flink-connector-redis/flink-connector-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-formats/flink-format-customized/flink-format-customized.iml" filepath="$PROJECT_DIR$/flink-formats/flink-format-customized/flink-format-customized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-formats/flink-formats.iml" filepath="$PROJECT_DIR$/flink-formats/flink-formats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-iceberg/flink-iceberg.iml" filepath="$PROJECT_DIR$/flink-iceberg/flink-iceberg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-connector/flink-jdbc-dialect-customized/flink-jdbc-dialect-customized.iml" filepath="$PROJECT_DIR$/flink-connector/flink-jdbc-dialect-customized/flink-jdbc-dialect-customized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-operator/flink-operator.iml" filepath="$PROJECT_DIR$/flink-operator/flink-operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-sql/flink-sql.iml" filepath="$PROJECT_DIR$/flink-sql/flink-sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-connector/flink-sql-connector-customized/flink-sql-connector-customized.iml" filepath="$PROJECT_DIR$/flink-connector/flink-sql-connector-customized/flink-sql-connector-customized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-sql-submit/flink-sql-submit.iml" filepath="$PROJECT_DIR$/flink-sql-submit/flink-sql-submit.iml" />
+    </modules>
+  </component>
+</project>

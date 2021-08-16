@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flink-application" />
+        <module name="flink-beginning" />
+        <module name="flink-connector-prometheus" />
+        <module name="flink-connector-redis" />
+        <module name="flink-format-customized" />
+        <module name="flink-iceberg" />
+        <module name="flink-jdbc-dialect-customized" />
+        <module name="flink-operator" />
+        <module name="flink-sql" />
+        <module name="flink-sql-connector-customized" />
+        <module name="flink-sql-submit" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="flink-application" target="8" />
+      <module name="flink-be-god" target="1.8" />
+      <module name="flink-beginning" target="1.8" />
+      <module name="flink-connector" target="1.8" />
+      <module name="flink-connector-prometheus" target="8" />
+      <module name="flink-connector-redis" target="1.8" />
+      <module name="flink-format-customized" target="8" />
+      <module name="flink-formats" target="1.8" />
+      <module name="flink-iceberg" target="8" />
+      <module name="flink-jdbc-dialect-customized" target="1.8" />
+      <module name="flink-operator" target="8" />
+      <module name="flink-sql" target="8" />
+      <module name="flink-sql-connector-customized" target="1.8" />
+      <module name="flink-sql-submit" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="flink-sql-submit" options="-Xpkginfo:always" />
+    </option>
+  </component>
+</project>
